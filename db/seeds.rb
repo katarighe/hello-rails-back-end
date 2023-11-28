@@ -8,8 +8,14 @@
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
 
-Message.create(content: 'Hello, World!')
-Message.create(content: 'Greetings from Rails!')
-Message.create(content: 'Welcome to the API!')
-Message.create(content: 'Hi there!')
-Message.create(content: 'Good to see you!')
+p "Seeding data..."
+p "Creating messages..."
+
+Message.create(greeting: "Hello there!")
+Message.create(greeting: "Good Morning!")
+Message.create(greeting: "Nice to see you!")
+Message.create(greeting: "What's up?")
+Message.create(greeting: "How are you?")
+
+p "Seeding data... DONE!"
+p "Created #{Message.count} messages!"
