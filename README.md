@@ -12,7 +12,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -31,7 +30,7 @@
 
 **Hello Rails Back End** is an app created by a React front-end with a Rails back-end and connect them together to display a random message.
 
-Front-End: [Hello-Rails-Back-End](https://github.com/katarighe/hello-rails-font-end)
+Front-End: [Hello-Rails-Front-End](https://github.com/katarighe/hello-rails-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -61,19 +60,12 @@ Front-End: [Hello-Rails-Back-End](https://github.com/katarighe/hello-rails-font-
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 The main features include:
 
 - A simple greeting message
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Not available at this moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
