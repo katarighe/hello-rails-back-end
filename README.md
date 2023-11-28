@@ -1,14 +1,14 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Hello World</b></h1>
+  <h1><b>Hello Rails Backend</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
 ## 📗 Table of Contents
 
-- [📖 Hello-World ](#-hello-world)
+- [📖 Hello-Rails ](#-hello-rails)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
