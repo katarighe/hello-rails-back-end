@@ -29,7 +29,9 @@
 
 # 📖 Hello Rails <a name="about-project"></a>
 
-An app that shows a simple greeting called as **Hello Rails** in backend. It is done with Rails and React.
+**Hello Rails Back End** is an app created by a React front-end with a Rails back-end and connect them together to display a random message.
+
+Front-End: [Hello-Rails-Back-End](https://github.com/katarighe/hello-rails-font-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
